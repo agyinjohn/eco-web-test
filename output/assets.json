@@ -1,0 +1,764 @@
+[
+  {
+    "url": "https://ex-coders.com/html/restin/assets/css/bootstrap.min.css"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/css/all.min.css"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/css/animate.css"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/css/magnific-popup.css"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/css/mousecursor.css"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/css/meanmenu.css"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/css/odometer.css"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/css/swiper-bundle.min.css"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/logo/black-logo.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/header/home-1.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/header/home-2.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/header/home-3.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/call-bg.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/button-bg.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/hero/signeture.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/css/nice-select.css"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/css/main.css"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/js/jquery-3.7.1.min.js"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/js/jquery.ripples-min.js"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/js/jquery.nice-select.min.js"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/js/jquery.waypoints.js"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/js/odometer.min.js"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=Gilda+Display&display=swap"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/header-bg.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/btn-bg.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/hero/01.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/hero/02.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/hero/03.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/about/about-1.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/about/bg-shape.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/bg.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/01.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/02.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/03.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/04.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/05.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/call-bg-2.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/button-bg-2.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/aminiti/01.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/aminiti/02.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/aminiti/03.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/aminiti/bg.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/offer/radius-1.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/offer/radius-5.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/offer/radius-2.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/offer/radius-6.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/offer/radius-9.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/offer/01.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/offer/radius-3.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/offer/radius-7.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/offer/radius-4.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/offer/radius-8.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/dining/01.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/dining/02.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/dining/03.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/dining/04.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/dining/05.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/dining/06.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/dining/07.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/dining/08.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/testimonial/01.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/testimonial/group.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/instagram/01.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/instagram/02.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/instagram/03.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/instagram/04.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/instagram/05.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/instagram/06.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/news/news-1.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/news/news-2.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/news/news-3.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/news/news-4.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/brand/01.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/brand/02.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/brand/03.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/brand/04.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/brand/05.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/brand/06.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/logo/white-logo.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/icon/01.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/icon/02.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/icon/05.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/icon/03.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/icon/06.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/icon/07.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/icon/04.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/hero/color-bg.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/js/jquery.meanmenu.min.js"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/js/wow.min.js"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/js/main.js"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/js/jquery.magnific-popup.min.js"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/js/viewport.jquery.js"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/js/swiper-bundle.min.js"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/js/bootstrap.bundle.min.js"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/barlow/v13/7cHsv4kjgoGqM7E_CfPI42ouvToJdLm8.woff2"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E3_-gs51ostz0rdg.woff2"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/barlow/v13/7cHpv4kjgoGqM7E_DMs5ynghnQ.woff2"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E30-8s51ostz0rdg.woff2"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/gildadisplay/v20/t5tmIRoYMoaYG0WEOh7HwMeR3T7Pr7GEch8.woff2"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/webfonts/fa-regular-400.woff2"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/webfonts/fa-solid-900.woff2"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/webfonts/fa-light-300.woff2"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/webfonts/fa-brands-400.woff2"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/hero/bg.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/about/radial-bg.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/testimonial/bg.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/footer.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/bg-shape.png"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E3t-4s51ostz0rdg.woff2"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/about/shape.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/about/01.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/about/02.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/about/03.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/bg-2.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/small-1.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/small-2.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/small-5.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/small-3.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/small-4.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/icon/01.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/icon/02.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/icon/03.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/icon/04.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/icon/06.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/icon/05.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/icon/07.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/icon/08.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/icon/09.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/icon/10.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/icon/11.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/icon/12.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/feature/plane.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/feature/01.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/feature/radius.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/feature/group.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/faq.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/faq-man.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/logo/red-logo.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/gallery/shape.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/gallery/04.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/gallery/05.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/gallery/06.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/gallery/01.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/gallery/02.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/gallery/03.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/gallery/07.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/gallery/08.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/gallery/10.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/gallery/09.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/gallery/11.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/gallery/12.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/client.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/icon/13.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/tower.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/team/01.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/team/02.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/team/03.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/team/04.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/news/01.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/arrow.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/news/02.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/news/03.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/feature/02.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/icon/11.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/hero/hero-bg.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/icon/10.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/hero/man.png"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E3p-ks51ostz0rdg.woff2"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/icon/09.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/icon/08.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/icon/13.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/icon/12.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-3/room/01.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-3/room/02.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-3/room/03.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-3/room/04.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-3/room/05.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-3/room/06.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/offer/offer-01.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/offer/offer-02.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/offer/offer-03.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-3/offer/bg.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-3/offer/01.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-3/offer/02.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-3/offer/03.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-3/room/07.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-3/room/09.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-3/room/11.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-3/room/08.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-3/room/10.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-3/testi-bg.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/icon/14.svg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-3/news/01.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-3/news/02.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-3/contact-bg.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-3/bg-shape.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/breadcrumb.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/about/shape.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/faciliti-1.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/faciliti-2.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/faciliti-3.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/faciliti-4.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/faciliti-5.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/faciliti-6.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/06.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/details-1.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/09.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/07.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/08.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/10.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/11.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-1/room/12.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/inner-page/service-details/details-1.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/inner-page/service-details/details-2.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/inner-page/service-details/details-3.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/inner-page/service-details/bg.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/team/06.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/team/05.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/team/details.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/news/10.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/news/11.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/news/12.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/inner-page/news-details/post-1.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/inner-page/news-details/post-2.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/inner-page/news-details/post-3.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/news/04.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/news/05.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/news/06.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/news/07.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/news/08.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/home-2/news/09.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/inner-page/news-details/details-1.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/inner-page/news-details/details-2.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/inner-page/news-details/details-3.jpg"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/inner-page/news-details/comment-1.png"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/inner-page/news-details/comment-2.png"
+  },
+  {
+    "url": "https://maps.googleapis.com/maps/api/js?key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&region=bd&experimentation=allowed&callback=onApiLoad"
+  },
+  {
+    "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/13d/search.js"
+  },
+  {
+    "url": "https://maps.gstatic.com/maps-api-v3/embed/js/66/13d/init_embed.js"
+  },
+  {
+    "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/13d/geometry.js"
+  },
+  {
+    "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/13d/main.js"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/js/ajax-mail.js"
+  },
+  {
+    "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/13d/places_impl.js"
+  },
+  {
+    "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/13d/map.js"
+  },
+  {
+    "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/13d/onion.js"
+  },
+  {
+    "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/13d/search_impl.js"
+  },
+  {
+    "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/13d/controls.js"
+  },
+  {
+    "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/13d/common.js"
+  },
+  {
+    "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/13d/util.js"
+  },
+  {
+    "url": "https://maps.googleapis.com/maps-api-v3/api/js/66/13d/places.js"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css?family=Google+Sans+Text:400&text=%E2%86%90%E2%86%92%E2%86%91%E2%86%93&lang=en"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans:400,500,700|Google+Sans+Text:400,500,700&lang=en"
+  },
+  {
+    "url": "https://ex-coders.com/html/restin/assets/img/inner-page/404.png"
+  }
+]
